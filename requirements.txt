@@ -1,0 +1,11 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+requests
+pywhatkit
+pyaudio
+langchain
+langchain-openai
+openai
+tiktoken
+httpx
