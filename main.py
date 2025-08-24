@@ -36,7 +36,7 @@ from langchain.chains import ConversationChain
 
 # ----------- Config -----------
 # 👇 PASTE YOUR OPENROUTER API KEY HERE
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "sk-or-XXXXXXXXXXXXXXXXXXXXXXX"
 
 # Model slug (check with curl if needed)
 DEEPSEEK_MODEL = "deepseek-ai/chat"
