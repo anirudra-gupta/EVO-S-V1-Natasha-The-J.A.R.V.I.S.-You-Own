@@ -7,18 +7,18 @@ real_password = 'infinity'  # Password for Voice Assistant
 gender = 1  # 0 for Male Voice and 1 for Female Voice
 rate = 150  # Speaking rate
 
-# Folders
+# Folders  #UPDATE IT ACCORDING TO YOU
 notes = r'C:\Users\User\Pictures\screenshot by evo'
 remember = r'C:\Users\User\Pictures\screenshot by evo'
 screenshots = r'C:\Users\User\Pictures\screenshot by evo'
 
-# Applications
+# Applications  #UPDATE IT ACCORDING TO YOU
 chrome = r'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe'
 firefox = r'C:/Program Files/Mozilla Firefox/firefox.exe'
 android_studio = r'C:/Program Files/Android/Android Studio/bin/studio.exe'
 telegram = r'G:/Program Files/Telegram Desktop/Telegram.exe'
 
-# Songs
+# Songs #UPDATE IT ACCORDING TO YOU
 songs = r'C:/Users/ASUS/Downloads/Songs for Natasha'
 songs_count = 2
 english_songs = r'C:/Users/ASUS/Downloads/NEW SONGS'
@@ -28,4 +28,4 @@ sinhala_songs_count = 21
 
 # API keys
 wolframalphaAPIkey = '8DT6S5-TS98UH2EY3'  # https://developer.wolframalpha.com/
-newsAPIkey = '3ce7b27c4596486eb9d10f28625c8f05'  # https://newsapi.org/
+newsAPIkey = '3ceXXXXXXXXXXXXX' #PASTE YOUR NEWS API HERE FOR NEWS  # https://newsapi.org/
